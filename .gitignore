@@ -34,3 +34,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+.DS_Store
+
+/.idea/
+/Assets/Plugins/Editor/
+/Assets/Plugins/Editor.meta
+
+
